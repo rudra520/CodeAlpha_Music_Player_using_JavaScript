@@ -23,6 +23,29 @@
 
 ---
 
+## 🌐 Live Demo
+
+Experience the Harmonix Music Player in action:
+
+**[🚀 Live Preview](https://rudra520codealpha3.netlify.app/)**
+
+Visit the live application hosted on Netlify to explore all features and enjoy the immersive music player experience!
+
+---
+
+## 📸 Screenshots
+
+### Main Player Interface
+![Music Player Preview](https://rudra520codealpha3.netlify.app/preview.png)
+
+### Features Showcase
+- **Modern UI** with atmospheric dark theme
+- **Audio Visualization** synchronized with playback
+- **Playlist Management** interface
+- **Responsive Design** for all devices
+
+---
+
 ## 🚀 Quick Start
 
 ### Prerequisites
